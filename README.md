@@ -1,3 +1,8 @@
+# Credit 
+pietrovismara
+Pietro Paolo Vismara 
+# forked from https://github.com/pietrovismara/odin-ecs
+
 # Odin ECS
 
 A toy implementation of an archetype based ECS.
